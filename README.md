@@ -1,8 +1,3 @@
-#Jack b-1
-#b-1 edit-2
-#b-2 edit-1
-# add b-2
-# add b-2-2
 # add b-3
 # Microservices with Spring Boot 3 and Spring Cloud, Third Edition
 This is the code repository for [Microservices with Spring Boot 3 and Spring Cloud, Third Edition](https://www.amazon.com/Microservices-Spring-Boot-Cloud-microservices/dp/1805128698), published by Packt.
